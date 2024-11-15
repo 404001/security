@@ -15,3 +15,7 @@ zip -r "$zip_file" "$backup_dir"
 ```sh
 chmod +x backup.sh
 ```
+
+```sh
+* * * * *  /home/smr2/backups.sh
+```

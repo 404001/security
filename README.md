@@ -11,3 +11,7 @@ zip_file="$HOME/Desktop/docs-$DATE_TIME.zip"
 
 zip -r "$zip_file" "$backup_dir"
 ```
+
+```sh
+chmod +x backup.sh
+```
